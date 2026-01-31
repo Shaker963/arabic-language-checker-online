@@ -1,0 +1,13 @@
+{
+  "name": "ShamNet Dashboard",
+  "description": "A professional, responsive web dashboard for managing ISP network boxes, featuring statistics, a data table, and modal forms. Now supports editing box details, managing individual subscriber names, direct map links, and custom connection types. When adding a new box, you can now provide an initial list of subscribers. Data persists using LocalStorage.",
+  "entry": "index.html",
+  "multiPage": false,
+  "files": [
+    "index.html",
+    "script.js",
+    "metadata.json"
+  ],
+  "tailwind": { "source": "play-cdn" },
+  "generatedAt": "2024-07-30T15:00:00Z"
+}
